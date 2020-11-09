@@ -15,11 +15,4 @@ Adicionar o comando LoadGrid
 Validar se as operações foram verdadeiras (AssertTrue)
 Validar se as operações foram falsas (AssertFalse)
 Método de configuração da classe (SetupClass)
-
-
-
-
-
-
-
-test_helper.SetButton('Outras Ações', 'Legenda') // para outras açoes
+.SetButton('Outras Ações', 'Legenda') // para outras açoes

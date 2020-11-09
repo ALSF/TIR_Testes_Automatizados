@@ -1,7 +1,7 @@
 {
-    "Url": "http://172.16.0.2:83/",
+    "Url": "http://172.16.0.2:84/",
     "Browser": "firefox",
-    "Environment": "OFICIAL",
+    "Environment": "MIGRACAO",
     "Language": "pt-br",
     "User": "fhfavaretto",
     "Password": "fhf94df2",
