@@ -1,0 +1,11 @@
+{
+    "Url": "http://172.16.0.2:84/",
+    "Browser": "firefox",
+    "Environment": "MIGRACAO",
+    "Language": "pt-br",
+    "User": "fhfavaretto",
+    "Password": "fhf94df2",
+    "DebugLog": false,
+    "TimeOut": 90,
+    "Headless": false
+}

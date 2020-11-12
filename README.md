@@ -3,6 +3,8 @@ Diretório destinado aos scripts de automatização de testes de Rotinas do  TOT
 
 ### Utilização da Ferramenta
 
+Testes somente na base de testes
+
 ## Requisitos
 
 1. Python 3.8.6 - Versão nos projetos e validada
