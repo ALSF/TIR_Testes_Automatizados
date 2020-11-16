@@ -10,13 +10,13 @@ pwd = input("Digite a nova senha:  ") # informar senha
 oHelper = Webapp()
 oHelper.Setup("SIGAMDI", dataSystem, '01','11001','02')
 oHelper.SetLateralMenu(' Miscelanea > Usuários ')
-oHelper.SetButton("Confirmar")
 oHelper.SetButton("Não")
 oHelper.SearchBrowse(term=user, key=2, index=True)
 oHelper.SetButton("Alterar")
 oHelper.SetValue("USR_PSW", pwd)
 oHelper.SetValue("USR_PSWCMP", pwd)
 oHelper.SetValue("USR_MSBLQL", "2 - Não") # Para bloquear para desbloquear > "2 - Não"
+oHelper.SetValue("USR_MSBLQD","/  /"),
 oHelper.SetValue("USR_CHGPSW", True, name_attr=True) #Para trocar a senha após logar
 oHelper.SetButton("Confirmar")
 oHelper.SetButton("Fechar")
